@@ -1,5 +1,5 @@
 def main():
-    name = input("Enter your name ")
+    name = input("Enter  ")
     print(f"Hello = {name}f<lfffk")
 
 
